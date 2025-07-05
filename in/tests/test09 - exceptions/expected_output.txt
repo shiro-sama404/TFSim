@@ -1,0 +1,2 @@
+R1 = 1
+err: "Divisao por 0, instrucao ignorada!"
